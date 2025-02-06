@@ -1,2 +1,0 @@
-# local
-My awesome repository
