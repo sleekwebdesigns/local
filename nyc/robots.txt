@@ -1,1 +1,1 @@
-Sitemap: sitemap.xml
+Sitemap: https://sleekwebdesigns.github.io/local/nyc/sitemap.xml
